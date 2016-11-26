@@ -25,7 +25,7 @@ $ git clone https://github.com/samwhelp/webextension-search-ubuntu-tw.git
 
 ## 功能說明
 
-一圖道盡千言萬與 :p
+一圖道盡千言萬語 :p
 
 ![示意圖](img/concept.png)
 
