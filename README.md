@@ -29,4 +29,8 @@ $ git clone https://github.com/samwhelp/webextension-search-ubuntu-tw.git
 
 ![示意圖](img/concept.png)
 
-圖片最上方，就是這個「WebExtensions」嵌入的元件。
+圖片最上方，就是這個「WebExtension」嵌入的元件。
+
+## 相關討論
+
+* [WebExtensions](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=355912#forumpost355912)
