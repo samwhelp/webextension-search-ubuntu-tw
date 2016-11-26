@@ -1,2 +1,32 @@
 # webextension-search-ubuntu-tw
-Webextension Search www.ubuntu-tw.org
+
+WebExtension Search [www.ubuntu-tw.org](//www.ubuntu-tw.org)
+
+
+## install git
+
+``` sh
+$ sudo apt-get install git
+```
+
+## clone
+
+``` sh
+$ git clone https://github.com/samwhelp/webextension-search-ubuntu-tw.git
+```
+
+## install for firefox
+
+請閱讀「[INSTALL.firefox.md](doc/INSTALL.firefox.md)」
+
+## install for chrome or chromium
+
+請閱讀「[INSTALL.chrome.md](doc/INSTALL.chrome.md)」
+
+## 功能說明
+
+一圖道盡千言萬與 :p
+
+![示意圖](img/concept.png)
+
+圖片最上方，就是這個「WebExtensions」嵌入的元件。
