@@ -4,7 +4,7 @@
 	關鍵字：
 	<input type="search" name="q" placeholder="Search Ubuntu TW" />
 	<input type="hidden" name="sitesearch" value="www.ubuntu-tw.org" />
-	<input type="submit" value="查詢" />
+	<input type="submit" value="搜尋" />
 </form>
 */
 
@@ -40,10 +40,10 @@ site.value = 'www.ubuntu-tw.org';
 form.appendChild(site);
 
 
-//<input type="submit" value="查詢" />
+//<input type="submit" value="搜尋" />
 var search = document.createElement('input');
 search.type = 'submit';
-search.value = '查詢';
+search.value = '搜尋';
 /*
 search.addEventListener('click', function(evt) {
 	//evt.target.innerHTML = "click count: " + evt.detail;
