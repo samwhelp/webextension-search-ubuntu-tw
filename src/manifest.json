@@ -1,8 +1,8 @@
 {
-    "description": "Search webpages matching ubuntu-tw.org.",
-    "manifest_version": 2,
-    "name": "Search www.ubuntu-tw.org",
+	"manifest_version": 2,
     "version": "0.1",
+    "name": "Search www.ubuntu-tw.org",
+    "description": "Search webpages matching ubuntu-tw.org.",
     "homepage_url": "https://github.com/samwhelp/webextensions-search-ubuntu-tw",
     "icons": {
         "48": "icons/search-48.png"
