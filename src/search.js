@@ -56,6 +56,7 @@ form.appendChild(search);
 embed.appendChild(form); // https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild
 
 
-var header = document.getElementById('page-header'); // https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
+//var header = document.getElementById('page-header'); // https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
+var header = document.body.firstChild; //https://developer.mozilla.org/en-US/docs/Web/API/Node/firstChild
 
 document.body.insertBefore(embed, header); // https://developer.mozilla.org/es/docs/Web/API/Node/insertarAntes
