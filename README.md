@@ -34,3 +34,9 @@ $ git clone https://github.com/samwhelp/webextension-search-ubuntu-tw.git
 ## 相關討論
 
 * [WebExtensions](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=355912#forumpost355912)
+
+## 相關專案
+
+
+* [webextension-search-site-embedded](https://github.com/samwhelp/webextension-practice/tree/master/webextension-search-site-embedded)
+* [webextension-search-site](https://github.com/samwhelp/webextension-practice/tree/master/webextension-search-site)
